@@ -8,7 +8,6 @@
 
 
 import sys
-import re
 
 # separator list
 
