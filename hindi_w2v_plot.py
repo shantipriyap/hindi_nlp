@@ -41,9 +41,6 @@ def Plot_w2v(hi_word_list):
 
 #Main
 
-#Define model with Hindi word list
-model = Word2Vec(hi_word_list, min_count=1)
-
 #Plot hindi embedding
 Plot_w2v([hi_word_list])
 
