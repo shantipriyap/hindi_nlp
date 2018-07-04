@@ -24,7 +24,13 @@ Usage: Execute the following command on the command line:
 ```
 python hindi_w2v_plot.py
 ```
+
+```
+example:  
+hi_word_list =['इमारतें', 'इमारतों', 'भवन', 'बिल्डिंग', 'सड़कें', 'इमारत', 'भवनों', 'ईमारते', 'सड़क', 'निर्माण', 'खिड़की', 'कारों', 'ईमारते', 'विमान', 'दीवारों',]
+```
 ![Screenshot](hindi_w2v.png)
+
 
 ## Author
 Shantipriya Parida
