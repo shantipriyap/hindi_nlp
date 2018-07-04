@@ -5,11 +5,11 @@
 #########################################################
 
 ##########################################################
-# Program: hindi_w2v.py
+# Program: hindi_w2v_plot.py
 # Description:Python script to plot Hindi word embedding
 #             using PCA
 #
-# Usage:   python hindi_w2v.py
+# Usage:   python hindi_w2v_plot.py
 ##########################################################
 
 ##########################################################
